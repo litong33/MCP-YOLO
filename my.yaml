@@ -1,0 +1,12 @@
+
+#python main.py --img_path [C:\Users\17330\Desktop\predict9\images] --mode 'YOLO2COCO' --label_path [C:\Users\17330\Desktop\predict9\labels] --save_path C:\Users\17330\Desktop\predict9\json
+path: C:/Users/ZhuanZ/Desktop/ultralytics-8.3.107/datasets/mydataset2
+train: C:/Users/ZhuanZ/Desktop/ultralytics-8.3.107/datasets/mydataset2/train/images
+val: C:/Users/ZhuanZ/Desktop/ultralytics-8.3.107/datasets/mydataset2/val/images      # 正确路径  
+nc: 4
+names:
+  0: ebike
+  1: bike
+  2: person
+  3: car
+#python main.py --img_path [C:\Users\17330\Desktop\predict9\images] --mode 'YOLO2COCO' --label_path [C:\Users\17330\Desktop\predict9\labels] --save_path C:\Users\17330\Desktop\predict9\json
