@@ -2,7 +2,7 @@
 
 Custom dataset has been uploaded to the github. Available: https://github.com/litong33/MCP-YOLO.git
 
-The custom dataset is placed in the CustomDatatset folder, selecting the student community of a school mainly  as the shooting area, with dense small targets and mutual occlusion. The shooting time is daytime, and four categories are marked: pedestrians, electric vehicles, bicycles and cars. The dataset contains train and val, and each folder contains iamges and labels subfolders. The image is in jepg format and the label is in txt format. The whole image set consists of 335 images, and the size is 176MB.
+The custom dataset is placed in the CustomDatatset folder, selecting the student community of a school mainly  as the shooting area, with dense small targets and mutual occlusion. The shooting time is daytime, and four categories are marked: pedestrians, electric vehicles, bicycles and cars. The dataset contains train and val, and each folder contains iamges and labels subfolders. The image is in jepg format and the label is in txt format. The whole image set consists of 1403 images, and the size is 729.49MB.
 
 
 The remaining yaml files are MCP-YOLO, other model files, and the model for ablation experiments at baseline, and the table results in letter can be obtained by training with these models.
